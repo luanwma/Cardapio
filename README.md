@@ -19,5 +19,6 @@ No Front-end foi utilizado TypeScript, React e Vite.
 - **React**
 
   ## 🤝 Inspiração
-  O projeto foi desenvolvido seguindo o curso ministrado pela @Fernanda-Kipper
+  O projeto foi desenvolvido seguindo o curso ministrado pela [@Fernanda-Kipper](https://github.com/Fernanda-Kipper), na qual agradeço imensamente a dedicação.
+  
   
